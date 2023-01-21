@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Welcome to My Personal Spaceship! This terminal consists of all the projects that is ready to launch "to infinity and beyond"!
+
+Any contributions or comments are welcome, as I am willing to learn more new stuff!
+
 <!--
 **nickng2912/nickng2912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
